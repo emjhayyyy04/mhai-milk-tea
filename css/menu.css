@@ -1,0 +1,213 @@
+*{
+	font-family: sans-serif;
+}
+
+h1{
+	text-align: center;
+}
+
+body
+{
+
+	background-image: url(../images/menubg.png);
+	background-repeat: repeat;
+	background-size: cover;
+}
+
+.espressoMenuList{
+
+	position: absolute;
+	top: 15%;
+	left: 15%;
+	
+}
+
+.addToCart{
+	position: absolute;
+	top: 110%;
+	left: 75%;
+	height: 20px;
+	width: 90px;
+	transform: translate(-50%,-50%);
+}
+
+.doubleespressoMenuList{
+	position: absolute;
+	top: 15%;
+	right: 15%;
+
+}
+
+.capuccinoMenuList{
+	position: absolute;
+	bottom: 15%;
+	left: 15%;
+}
+
+.latteMenuList{
+	position: absolute;
+	bottom: 15%;
+	right: 15%;
+
+}
+
+.americanoMenuList{
+	position: absolute;
+	bottom: -25%;
+	left: 15%;
+
+}
+
+.mochaMenuList{
+	position: absolute;
+	bottom: -25%;
+	right: 15%;
+
+	}
+
+	.cheeseSaladMenuList{
+
+	position: absolute;
+	top: 15%;
+	left: 15%;
+
+	}
+
+	.tunaSaladMenuList{
+	position: absolute;
+	top: 15%;
+	right: 15%;
+
+	}
+	
+
+	.flatwhiteMenuList{
+	position: absolute;
+	bottom: -65%;
+	left: 15%;
+
+	}
+
+	.shortblackMenuList{
+	position: absolute;
+	bottom: -65%;
+	right: 15%;
+
+	}
+
+	.doneBtn{
+	position: absolute;
+	bottom: -65%;
+	right: 47%;
+
+	}
+
+	.cheesesalad{
+		text-decoration: none;
+		font-size: 14px;
+	}
+
+	.tunaSalad{
+		text-decoration: none;
+		font-size: 14px;
+	}
+
+.humusssMenuList{
+	position: absolute;
+	bottom: 15%;
+	left: 15%;
+}
+
+.brieCheeseMenuList{
+	position: absolute;
+	bottom: 15%;
+	right: 15%;
+
+}
+	.humussSandwich{
+		text-decoration: none;
+		font-size: 14px;
+	}
+
+	.brieCheese{
+		text-decoration: none;
+		font-size: 14px;
+	}
+
+
+.whiteteaMenuList{
+	position: absolute;
+	bottom: -25%;
+	left: 15%;
+
+}
+
+.greenteaMenuList{
+	position: absolute;
+	bottom: -25%;
+	right: 15%;
+
+	}
+
+	.blackteaMenuList{
+	position: absolute;
+	bottom: -65%;
+	left: 15%;
+
+	}
+
+	.oolongteaMenuList{
+	position: absolute;
+	bottom: -65%;
+	right: 15%;
+
+	}
+
+.lemonPieMenuList{
+
+	position: absolute;
+	top: 15%;
+	left: 15%;
+	
+}
+
+
+.oatMealMenuList{
+	position: absolute;
+	top: 15%;
+	right: 15%;
+
+}
+
+.chocoCupMenuList{
+	position: absolute;
+	bottom: 15%;
+	left: 15%;
+}
+
+.englishConeMenuList{
+	position: absolute;
+	bottom: 15%;
+	right: 15%;
+
+}
+
+.appleTurnoverMenuList{
+	position: absolute;
+	bottom: -25%;
+	left: 15%;
+
+}
+
+.cinammonRollMenuList{
+	position: absolute;
+	bottom: -25%;
+	right: 15%;
+
+	}
+.doneBtn2{
+	position: absolute;
+	bottom: -25%;
+	right: 47%;
+
+	}

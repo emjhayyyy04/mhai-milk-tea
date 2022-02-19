@@ -1,0 +1,192 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+body{
+	background-image: url(../img/istockphoto-1142539780-612x612.jpg);
+	height: 100vh;
+	text-align: center;
+	position: relative;
+	color: black;
+	background-repeat: no-repeat;
+	background-size: 100% 89%;
+	background-position: bottom;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	position: absolute;
+	background-color: #fff;
+	width: 100%;
+}
+
+.main{
+	flex: 1;
+	text-align: right;
+}
+
+.main ul li{
+	display: inline-block;
+	margin-top: 35px;
+}
+
+.main ul li a {
+	color: #000000;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+}
+
+ul li a:hover{
+	background-color: #000;
+	color: #fff;
+}
+
+.logo img{
+	float: left;
+	width: 50px;
+	height: auto;
+}
+
+.kape img{
+	float: bottom;
+	margin: 0 auto;
+	width: 93px;
+	height: 105px;
+	right: -30%;
+	position: relative;
+}
+
+.cappuccino img{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 60%;
+	right: 60%;
+	transform: translate(-50%,-50%);
+}
+
+.chocolatecupcake img{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 60%;
+	right: 32%;
+	transform: translate(-50%,-50%);
+}
+
+.cheesesaladsandwich img{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	top: 60%;
+	right: 5%;
+	transform: translate(-50%,-50%);
+}
+
+.logos{
+	float: bottom;
+	margin: 0 auto;
+	width: 1000px;
+	height: 1000px;
+	top: 20%;
+	position: relative;
+}
+.signage img{
+	width: 1000px;
+	position: relative;
+}
+
+.main{
+	max-width: 1200px;
+	margin: auto;
+}
+
+.title{
+	position: absolute;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.title h1{
+	color: #000000;
+	font-size: 35px;
+}
+
+.logo img{
+	float: left;
+	width: 55px;
+	height: auto;
+}
+
+.coffeeMenu{
+	position: absolute;
+	top: 15%;
+	left: 15%;
+}
+.breadMenu{
+	position: absolute;
+	top: -58%;
+	left: 120%;	
+}
+.dessertMenu{
+	position: absolute;
+	top: 120%;
+	left: 0%;	
+}
+
+.desc{
+	position: absolute;
+	bottom: 8px;
+	left: 16px;
+
+}
+
+.button{
+	position: absolute;
+	top: 90%;
+	left: 81%;
+	transform: translate(-50%,-50%);
+}
+
+.placeOrder{
+	height: 70px;
+	width: 400px;
+}
+
+.viewOrder{
+	position: absolute;
+	text-decoration: underline;
+	font-size: 15px;
+	top: -40%;
+	left: 70%;
+}
+.selectCoffee{
+	position: absolute;
+	top: 90%;
+	left: 75%;
+	height: 20px;
+	width: 90px;
+	transform: translate(-50%,-50%);
+}
+
+.selectBread{
+	position: absolute;
+	top: 90%;
+	left: 75%;
+	height: 20px;
+	width: 90px;
+	transform: translate(-50%,-50%);
+}
+
+.selectDessert{
+	position: absolute;
+	top: 90%;
+	left: 75%;
+	height: 20px;
+	width: 90px;
+	transform: translate(-50%,-50%);
+}
